@@ -1,0 +1,6 @@
+{
+  "name": "ARENA X - أرينا إكس",
+  "description": "بوابة القدية المستقبلية الذكية: صمم ألعابك بالذكاء الاصطناعي فورياً، شارك في تحديات الواقع المعزز AR، واستكشف خريطة تفاعلية للسباقات والرياضات الإلكترونية في قلب القدية الحية.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
